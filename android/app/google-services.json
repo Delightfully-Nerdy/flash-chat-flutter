@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071917888323",
+    "project_id": "flash-chat-7752c",
+    "storage_bucket": "flash-chat-7752c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071917888323:android:9ccbab7203b267f419b5f6",
+        "android_client_info": {
+          "package_name": "com.delighfullynerdy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071917888323-nf4omq9gsjjdicmbrqili3p8a22pg1cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7nRfsVNGunXtDW_KuQ7Yla0suAbeQpvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071917888323-nf4omq9gsjjdicmbrqili3p8a22pg1cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
